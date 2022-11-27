@@ -1,0 +1,42 @@
+{
+  "todoitems": [
+    {
+      "title": "Todo #1",
+      "description": "todo111111",
+      "author": "user1@test.net",
+      "dateCreated": "Thu Nov 03 2022 19:24:25 GMT-0500 (Central Daylight Time)",
+      "complete": false,
+      "id": 1,
+      "dateCompleted": ""
+    },
+    {
+      "title": "Todo #2",
+      "description": "todo2222222",
+      "author": "user1@test.net",
+      "dateCreated": "Thu Nov 03 2022 19:24:25 GMT-0500 (Central Daylight Time)",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "Todo# 5",
+      "description": "todo5555555",
+      "author": "test@test.net",
+      "dateCreated": "Thu Nov 03 2022 19:25:20 GMT-0500 (Central Daylight Time)",
+      "complete": false,
+      "id": 5,
+      "dateCompleted": ""
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test.net",
+      "password": "$2a$10$BfRxietlwDL8LrzA6ApSr.xetPAJQZ5KK1U7satjfT2Mdh3SRL1Pe",
+      "id": 1
+    },
+    {
+      "email": "user1@test.net",
+      "password": "$2a$10$Hrda2YqE4.WpWwmXeP/I9OGV152d0wEpWbt4gHHdvHKAwYX2VZ61W",
+      "id": 2
+    }
+  ]
+}
